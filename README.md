@@ -14,3 +14,6 @@ Result can be found at https://figshare.com/articles/dataset/output_y_csv/129811
 ### visualization.py
 visualize the result. 
 Result can be found at https://figshare.com/articles/figure/plot_x_y_png/12981179
+
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4040409.svg)](https://doi.org/10.5281/zenodo.4040409)
