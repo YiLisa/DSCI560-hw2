@@ -25,12 +25,12 @@ Result can be found at https://figshare.com/articles/figure/plot_x_y_png/1298117
 2. If not already installed, do pip installation of virtualenv package. In command line run:  
     `pip install virtualenv`
 3. Go to project folder (DSCI560-hw2) and create new empty environment named dsci560H4 by running:   
-On macOS and Linux: `python3 -m venv dsci560H4`
+On macOS and Linux: `python3 -m venv dsci560H4`  
 On Windows: `py -m venv dsci560H4`
 you can changing the last word of the command to name yout environment as you want  
 4. Activate the new enviornment by running:  
 On Windows:
-    `.\dsci560H4\Script\activate` 
+    `.\dsci560H4\Script\activate`   
 On macOS and Linux::
     `source dsci560H4/bin/activate`     
 5. Install dependencies by running:  
@@ -39,7 +39,8 @@ On macOS and Linux::
     ```
     python random1000.py
     python generatey.py
-    python visualization.py```
+    python visualization.py
+    ```
     
 
 You can also execute the HW2 notebook in Binder by clicking the badge:
