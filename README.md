@@ -34,7 +34,13 @@ On Windows:
 On macOS and Linux:
     `source dsci560H4/bin/activate`     
 5. Install dependencies by running:  
-    `pip install -r requirements.txt`
+    `pip install -r requirements.txt`  
+   Or you can manually install packages by executing:
+   ```
+   pip install pandas
+   pip install matplotlib
+   ```
+   Only two packages are manually installed, beu their dependencies will automatically be installed so they will also shown in extracted dependency list.
 6. Execute the python scripts by executing in command line:  
     ```
     python random1000.py
