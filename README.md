@@ -41,8 +41,8 @@ On macOS and Linux:
     python generatey.py
     python visualization.py
     ```
-7. You should get a result as the screenshot shown:
-    
+7. You should get a result as the screenshot shown:  
+    ![Screenshot](https://github.com/YiLisa/DSCI560-hw2/blob/master/Screenshot.png)
 
-You can also execute the HW2 notebook in Binder by clicking the badge:
+You can also execute the HW2 notebook in Binder by clicking the badge:  
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/YiLisa/DSCI560-hw2/master?filepath=HW2.ipynb)
