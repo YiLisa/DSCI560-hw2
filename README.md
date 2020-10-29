@@ -17,3 +17,4 @@ Result can be found at https://figshare.com/articles/figure/plot_x_y_png/1298117
 
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4041266.svg)](https://doi.org/10.5281/zenodo.4041266)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/YiLisa/DSCI560-hw2/master?filepath=HW2.ipynb)
