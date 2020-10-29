@@ -21,23 +21,23 @@ Result can be found at https://figshare.com/articles/figure/plot_x_y_png/1298117
 ### Instructions to create a virtual environment for the project and run it on your computer
 
 1. Copy this github URL and clone to local repository by executing in command line:
-    git clone https://github.com/YiLisa/DSCI560-hw2.git
+    `git clone https://github.com/YiLisa/DSCI560-hw2.git`
 2. If not already installed, do pip installation of virtualenv package. In command line run:
-    pip install virtualenv
+    `pip install virtualenv`
 3. Go to project folder (DSCI560-hw2) and create new empty environment named dsci560H4 by running:
-    python -m venv dsci560H4
+    `python -m venv dsci560H4`
 you can changing the last word of the command to name yout environment as you want
 4. Activate the new enviornment by running:
 Windows:
-    .\dsci560H4\Script\activate 
+    `.\dsci560H4\Script\activate` 
 MacOS:
-    source dsci560H4/bin/activate     
+    `source dsci560H4/bin/activate`     
 5. Install dependencies by running:
-    pip install -r requirements.txt
+    `pip install -r requirements.txt`
 6. Execute the python scripts by executing in command line:
-    python random1000.py
+    ```python random1000.py
     python generatey.py
-    python visualization.py
+    python visualization.py```
     
 
 You can also execute the HW2 notebook in Binder by clicking the badge:
