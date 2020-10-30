@@ -40,7 +40,7 @@ On macOS and Linux:
    pip install pandas
    pip install matplotlib
    ```
-   Only two packages are manually installed, beu their dependencies will automatically be installed so they will also shown in extracted dependency list.
+   Only two packages are manually installed. But the extracted dependency list consists more packages because their dependencies will automatically be installed as well.  
 6. Execute the python scripts by executing in command line:  
     ```
     python random1000.py
